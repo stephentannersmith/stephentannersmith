@@ -10,6 +10,6 @@ My name is Tanner Smith and I am a Musician turned Jr. Developer seeking my firs
 - 😄 Pronouns: him/he
 - ⚡ Fun fact: I once ran into Johnny Depp in an elevator and I called him Jack Sparrow. 
 
-## My links
-Portfolio: www.tsmithdevelopment.com
-LinkedIn: www.linkedin.com/in/stephentannersmith
+## Other links
+- Portfolio: www.tsmithdevelopment.com
+- LinkedIn: www.linkedin.com/in/stephentannersmith
