@@ -4,7 +4,7 @@ My name is Tanner Smith and I am a Musician turned Jr. Developer seeking my firs
 
 - 🔭 I’m currently working on my own SUPER COOL music networking application.
 - 🌱 I’m currently learning MongoDB, Express, React.js, Node.js
-- 👯 I’m looking to collaborate on any music-related applications.
+- 👯 I’m looking to collaborate on any exciting projects.
 - 💬 Ask me anything :) 
 - 📫 How to reach me: tanner.ssu@gmail.com
 - 😄 Pronouns: him/he
