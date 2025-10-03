@@ -8,7 +8,7 @@ My name is Tanner Smith and I am a Musician turned Developer. While my first ful
 - 💬 Ask me anything :) 
 - 📫 How to reach me: tanner.ssu@gmail.com
 - 😄 Pronouns: him/he
-- ⚡ Fun fact: I once ran into Johnny Depp in an elevator and I called him Jack Sparrow. 
+- ⚡ Fun fact: I'm adopted. 
 
 ## Other links
 - Portfolio: www.tsmithdevelopment.com
